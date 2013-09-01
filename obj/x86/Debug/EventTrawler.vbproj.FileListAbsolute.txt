@@ -1,0 +1,9 @@
+D:\Data\Projects\EventTrawler\bin\Debug\EventTrawler.exe
+D:\Data\Projects\EventTrawler\bin\Debug\EventTrawler.pdb
+D:\Data\Projects\EventTrawler\bin\Debug\EventTrawler.xml
+D:\Data\Projects\EventTrawler\obj\x86\Debug\EventTrawler.Form1.resources
+D:\Data\Projects\EventTrawler\obj\x86\Debug\EventTrawler.Resources.resources
+D:\Data\Projects\EventTrawler\obj\x86\Debug\EventTrawler.vbproj.GenerateResource.Cache
+D:\Data\Projects\EventTrawler\obj\x86\Debug\EventTrawler.exe
+D:\Data\Projects\EventTrawler\obj\x86\Debug\EventTrawler.xml
+D:\Data\Projects\EventTrawler\obj\x86\Debug\EventTrawler.pdb
